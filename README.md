@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de Adrian Gabriel 😁
 
  <div>
    <a href="https://github.com/AdrianGabriel2508">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais informações, de uma olhada nas minhas redes sociais
  
 <div> 
   <a href = "adriangabriel2423@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
